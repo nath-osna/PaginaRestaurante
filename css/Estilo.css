@@ -38,7 +38,7 @@ nav ul li
 
 /*Fondo de la pagina*/
 body{
-    background-image: url(/imagenesDiseno/Fondosushii.png);
+    background-image: url(/Pagina_Restaurante/imagenesDiseno/Fondosushii.png);
     background-repeat: repeat;
     background-size: 450px; 
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -59,7 +59,7 @@ section{
 footer{
     
     width: 80%;
-    background-image: url(/imagenesDiseno/suchifooter.jpg);
+    background-image: url(/Pagina_Restaurante/imagenesDiseno/suchifooter.jpg);
     background-size:1100px ;
     margin-left:auto;
     margin-right:auto;
@@ -150,4 +150,5 @@ footer{
 /* Formato para las filas */
 .tabla-menu tr:nth-child(even) td {
     background: #b9ffff;  /
+
 }
